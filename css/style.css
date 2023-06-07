@@ -8,13 +8,10 @@
     padding: 30px 7vw;
     box-sizing: border-box;
 }
-.header__inner {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
+
 .header__title {
     font-size: 25px;
+    text-align:center;
 }
 .header__nav ul {
     display: flex;
