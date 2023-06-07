@@ -43,7 +43,8 @@
 }
 
 h2{
-    margin-top:50px;
+    padding (margin) -top : 50px
+    padding (margin) -bottom : 50px
 }
 
 h3{
