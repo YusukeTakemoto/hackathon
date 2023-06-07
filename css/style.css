@@ -4,6 +4,7 @@
 .header {
     position: absolute;
     width: 100%;
+    height: 600px;
     min-width:980px;
     padding: 30px 7vw;
     box-sizing: border-box;
@@ -31,10 +32,10 @@
 /* first-v */
 .first-v {
     background-image: url(aiken_header.jpg);
-    height: 100%;
+    height: 600px;
     background-repeat: no-repeat;
-    background-size: contain;
-    width: 100vw;
+/*    background-size: contain; */
+    width: 100%;
     border: 2px solid red;
 }
 
