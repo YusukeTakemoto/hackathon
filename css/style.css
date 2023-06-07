@@ -3,7 +3,7 @@
 /* header */
 .header {
     position: absolute;
-    width: 100%;
+    width: 100vw;
     padding: 30px 7vw;
     box-sizing: border-box;
 }
