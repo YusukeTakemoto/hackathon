@@ -3,9 +3,8 @@
 /* header */
 .header {
     position: absolute;
-    width: 100vw;
-    height: 600px;
-    padding: 30px 5vw;
+    
+    padding: 30px 5vw 5vw 30px;
     box-sizing: border-box;
     max-width:100%;
 }
@@ -32,9 +31,9 @@
 /* first-v */
 .first-v {
     background-image: url(aiken_header.jpg);
-    height: 600px;
+
+    
     background-repeat: no-repeat;
-    width: 100vw;
     border: 2px solid red;
     max-width:100%;
 }
