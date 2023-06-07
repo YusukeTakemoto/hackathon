@@ -2,7 +2,7 @@
 
 /* header */
 .header {
-    position: absolute;
+    position: relative;
     width: 100%;
     min-width:980px;
     padding: 30px 7vw;
