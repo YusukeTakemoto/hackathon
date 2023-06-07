@@ -46,6 +46,22 @@
 
 h2{
     margin-top:80px;
+    position: relative;
+    margin-bottom: 0.2rem;
+    padding: 0.5rem 0;
+    border-bottom: 5px solid;
+    color: #F09033;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+h2:before {
+    position: absolute;
+    bottom: -0.6rem;
+    left: 0rem;
+    right: 0rem;
+    border-bottom: 1px solid;
+    content: '';
 }
 
 h3{
