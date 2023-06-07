@@ -5,8 +5,9 @@
     position: absolute;
     width: 100vw;
     height: 600px;
-    padding: 30px 7vw;
+    padding: 30px 5vw;
     box-sizing: border-box;
+    max-width:100%;
 }
 .header__inner {
     display: flex;
@@ -35,6 +36,7 @@
     background-repeat: no-repeat;
     width: 100vw;
     border: 2px solid red;
+    max-width:100%;
 }
 
 /* レスポンシブ */
