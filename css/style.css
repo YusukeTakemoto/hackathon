@@ -43,10 +43,13 @@
 }
 
 h2{
-    padding (margin) -top : 50px
-    padding (margin) -bottom : 50px
+    margin-top:20px;
 }
 
 h3{
     margin-top:20px;
+}
+
+form{
+    margin-top:50px;
 }
