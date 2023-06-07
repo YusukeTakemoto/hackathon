@@ -14,7 +14,7 @@
 }
 .header__title {
     font-size: 25px;
-    text-align: center;
+    align-items: center;
 }
 .header__nav ul {
     display: flex;
