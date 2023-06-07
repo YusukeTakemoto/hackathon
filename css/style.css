@@ -47,10 +47,12 @@
 h2{
     margin-top:80px;
     position: relative;
+    margin-left:100px;
+    margin-right:100px;
     margin-bottom: 0.2rem;
     padding: 0.5rem 0;
     border-bottom: 5px solid;
-    color: #F09033;
+    color: #000000;
     font-size: 26px;
     font-weight: bold;
 }
