@@ -3,7 +3,7 @@
 /* header */
 .header {
     position: absolute;
-    width: 100%;
+    width: 100vw;
     height: 600px;
     padding: 30px 7vw;
     box-sizing: border-box;
@@ -33,7 +33,7 @@
     background-image: url(aiken_header.jpg);
     height: 600px;
     background-repeat: no-repeat;
-    width: 100%;
+    width: 100vw;
     border: 2px solid red;
 }
 
