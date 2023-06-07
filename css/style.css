@@ -4,6 +4,7 @@
 .header {
     position: absolute;
     width: 100%;
+    min-width:980px;
     padding: 30px 7vw;
     box-sizing: border-box;
 }
