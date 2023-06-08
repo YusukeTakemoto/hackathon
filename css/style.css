@@ -57,7 +57,7 @@ h1{
 h1::before {
     position: absolute;
     border-bottom: 3px solid #353535;
-    top: 90%;
+    top: 85%;
     left: 50%;
     transform: translateX(-50%);
     width: 150px;
@@ -79,7 +79,7 @@ h2{
 h2::before {
     position: absolute;
     border-bottom: 3px solid #353535;
-    top: 90%;
+    top: 85%;
     left: 50%;
     transform: translateX(-50%);
     width: 150px;
